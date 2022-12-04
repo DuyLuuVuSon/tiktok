@@ -1,0 +1,8 @@
+.title{
+    color:red;
+    opacity: var(--level);
+}
+
+.color-red{
+    background-color: red;
+}
