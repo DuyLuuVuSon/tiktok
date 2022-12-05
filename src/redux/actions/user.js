@@ -5,7 +5,7 @@ export const setNewUser = (user) => {
     payload:user,
   }
 }
-
+// 2
 export const addNewUser = (user) => {
   return {
     type:'ADD_USER',
