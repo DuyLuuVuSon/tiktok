@@ -1,3 +1,4 @@
+// 1
 export const setNewUser = (user) => {
   return {
     type:'SET_USER',
