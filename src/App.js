@@ -11,7 +11,6 @@ import 'antd/dist/antd.css';
 
 function App() {
   const [dateTime,setDateTime]=useState('')
-  console.log(1)
   return (
     <GlobalStyle>
       <div style={{ padding: 20 }}>
